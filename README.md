@@ -7,10 +7,6 @@ Project Structure :
     trader-behavior-insights/
     
     ├── notebook_1.ipynb
-
-    ├── csv_files/
-        │
-    │   ├──merged_data.csv
     
     ├── outputs/
         │    
@@ -56,7 +52,10 @@ Refer to ds_report.pdf for a detailed explanation of findings and interpretation
 View the plots in the outputs/ folder for visual insights.
 
 Notes :
+
 the original datasets are not included in this repository as they are publicly available from the sources provided in the assignment.
+
+Due to file size constraints, intermediate merged datasets are not included in this repository. The notebook reproduces all processing steps from the original data sources.
 
 Author : 
 
