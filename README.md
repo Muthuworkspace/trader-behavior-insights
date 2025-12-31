@@ -3,13 +3,21 @@ Trader Behavior Insights Based on Market Sentiment
 This repository contains the analysis for the Junior Data Scientist – Trader Behavior Insights assignment. The objective of this project is to explore how trader behavior and performance vary across different Bitcoin market sentiment regimes.
 
 Project Structure :
+    
     trader-behavior-insights/
+    
     ├── notebook_1.ipynb
+    
     ├── outputs/
+    
     │   ├── pnl_by_sentiment.png
+    
     │   ├── risk_by_sentiment.png
+    
     │   └── winrate_by_sentiment.png
+    
     ├── ds_report.pdf
+    
     └── README.md
 
 Overview :
