@@ -7,13 +7,17 @@ Project Structure :
     trader-behavior-insights/
     
     ├── notebook_1.ipynb
+
+    ├── csv_files/
+        │
+    │   ├──merged_data.csv
     
     ├── outputs/
-    
+        │    
     │   ├── pnl_by_sentiment.png
-    
+        │    
     │   ├── risk_by_sentiment.png
-    
+        │    
     │   └── winrate_by_sentiment.png
     
     ├── ds_report.pdf
